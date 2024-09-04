@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Aarushi Bhatia </h1>
+<h1 align="center">Hi <img src="https://github.com/Aarushibhatia12/Aarushibhatia12/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Aarushi Bhatia </h1>
 
-<p align="center" width="150px"> I am a Software Engineer, currently pursuing my Computer Science Engineering.</p>
+<p align="center" width="150px"> I am a Full-stack Developer, currently pursuing my Computer Science Engineering.</p>
 
 
 
