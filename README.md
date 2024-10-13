@@ -1,6 +1,4 @@
 
-
-<br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
