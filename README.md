@@ -24,7 +24,7 @@
 </div>
 
 <br/>
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">⚡ Leetcode Info ⚡<h2>  
 <p align="center">
 
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito" />  
