@@ -18,8 +18,8 @@
   <!-- Top Languages -->
   <img 
     width="325" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushibhatia12&hide=HTML,CSS&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5
-&exclude_repo=github-readme-stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushibhatia12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"&count_private=true
+
     alt="Top Languages Used" 
     style="margin-top: 20px;"/>
 </div>
