@@ -24,3 +24,7 @@
 </div>
 
 <br/>
+<p align="center">
+
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
