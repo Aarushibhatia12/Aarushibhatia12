@@ -1,3 +1,4 @@
+[![An image of @aarushibhatia12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aarushibhatia12)](https://holopin.io/@aarushibhatia12)
 <h2 align="center">⚡ Current GitHub Stats ⚡</h2>
 
 <div align="center">
