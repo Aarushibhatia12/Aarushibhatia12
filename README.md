@@ -20,11 +20,9 @@
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushibhatia12&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
-<img src='./github-contribution-snake.svg'>
-
 <br/>
 <h2 align="center">⚡ Leetcode Info ⚡<h2>  
 <p align="center">
 
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
