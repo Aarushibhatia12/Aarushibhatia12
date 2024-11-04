@@ -25,4 +25,6 @@
 <p align="center">
 
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito&ext=heatmap" />  
+  <p align="center">
+  <a href="https://leetcode.com/aarushi_bhatia/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
