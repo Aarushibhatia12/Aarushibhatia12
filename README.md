@@ -17,8 +17,13 @@
     style="margin-bottom: 20px;"/>
 
   <!-- Top Languages -->
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushibhatia12&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img 
+    width="325" 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushibhatia12&count_private=true&layout=compact&theme=react&border_radius=10" 
+    alt="Top Languages" />
 </div>
+
 
 <br/>
 <h2 align="center">⚡ Leetcode Info ⚡<h2>  
