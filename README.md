@@ -5,14 +5,14 @@
   <!-- Streak Stats -->
   <img 
     width="390" 
-    src="https://streak-stats.demolab.com/?user=aarushibhatia12&count_private=true&theme=react&border_radius=10" 
+    src="https://streak-stats.demolab.com/?user=aarushi-bhatia&count_private=true&theme=react&border_radius=10" 
     alt="GitHub Streak Stats" 
     style="margin-bottom: 20px;"/>
   
   <!-- ReadMe Stats -->
   <img 
     width="390" 
-    src="https://github-readme-stats.vercel.app/api?username=aarushibhatia12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    src="https://github-readme-stats.vercel.app/api?username=aarushi-bhatia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
     alt="GitHub ReadMe Stats" 
     style="margin-bottom: 20px;"/>
 
@@ -20,7 +20,7 @@
   <img 
     width="325" 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushibhatia12&count_private=true&layout=compact&theme=react&border_radius=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushi-bhatia&count_private=true&layout=compact&theme=react&border_radius=10" 
     alt="Top Languages" />
 </div>
 
